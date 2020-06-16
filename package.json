@@ -1,0 +1,28 @@
+{
+  "name": "vc-play-youtube-video-inview",
+  "version": "0.0.1",
+  "description": "VC Play Youtube Video Inview - autoplays the youtube video when the video is in view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashanshah/vc-play-youtube-video-inview.git"
+  },
+  "keywords": [
+    "Visual",
+    "Composer",
+    "VC",
+    "Addons"
+  ],
+  "author": "Kashan Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashanshah/vc-play-youtube-video-inview/issues"
+  },
+  "homepage": "https://github.com/kashanshah/vc-play-youtube-video-inview#readme",
+  "dependencies": {
+    "jquery-inview": "^1.1.2"
+  }
+}
